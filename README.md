@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Agnieszka 👋
 
-<!--
-**agniechaa/agniechaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Warsaw University of Technology.
 
-Here are some ideas to get you started:
+I enjoy mathematics because it has problems.  
+Programming is similar, except sometimes the problems have semicolons.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me 
+- **Currently learning:** Object-oriented programming, algorithms and data structures, software development
+- **Contact** [https://www.linkedin.com/in/agnieszkakmiecik](https://www.linkedin.com/in/agnieszkakmiecik)
+
+### Skills & Tools
+
+**Familiar with:**
+<p>
+  <img src="https://skillicons.dev/icons?i=c,bash,arch,git,github" />
+</p>
+
+**Learning:**
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python" />
+</p>
+
+### Goals
+
+- Improve programming skills
+- Expand my tech stack
+- Build practical projects
+- Debug without questioning my life choices
+
+### Fun fact
+
+I like Arch Linux. Yes, I may mention it occasionally. 
