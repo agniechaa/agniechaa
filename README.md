@@ -13,7 +13,7 @@ Programming is similar, except sometimes the problems have semicolons.
 
 **Familiar with:**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,C#,bash,arch,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,bash,arch,git,github" />
 </p>
 
 **Learning:**
